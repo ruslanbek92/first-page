@@ -24,8 +24,8 @@ git commit
 3. China
 
 - first list item
- - second nested list item
- - third nested list item
-   1. item#1
-   2. item#2
+  - second nested list item
+  - third nested list item
+    1. item#1
+    2. item#2      
 - second list item
