@@ -29,3 +29,8 @@ git commit
     1. item#1
     2. item#2      
 - second list item
+
+- [] do first
+- [x] do second
+- [] do third 
+
