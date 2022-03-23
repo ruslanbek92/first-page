@@ -30,7 +30,7 @@ git commit
     2. item#2      
 - second list item
 
-- [] do first
+- [ ] do first
 - [x] do second
-- [] do third 
+- [ ] do third 
 
