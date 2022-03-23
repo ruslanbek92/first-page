@@ -13,4 +13,4 @@ git commit
 
 [This is a link to my latest project](../space-tourism-website/blob/main/README.md)
 
-![image sample](./space-tourism-website/blob/main/dist/background-crew-desktop.425df4ce.jpg)
+![image sample](./space-tourism-website/blob/main/dist/background-crew-desktop.425df4ce.jpg#gh-dark-mode-only)
