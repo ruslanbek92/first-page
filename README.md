@@ -14,3 +14,18 @@ git commit
 [This is a link to my latest project](../space-tourism-website/blob/main/README.md)
 
 ![image sample](../space-tourism-website/blob/main/dist/background-crew-desktop.425df4ce.jpg#gh-light-mode-only)
+
+-George Washington
+-John Adams
+-Thomas Jefferson
+
+1.USA
+2.Russia
+3.China
+
+-first list item
+ -second nested list item
+ -third nested list item
+   1.item#1
+   2.item#2
+-second list item
