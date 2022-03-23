@@ -10,5 +10,7 @@ git status
 git commit
 ```
 [this is a link to my github profile](https://github.com/ruslanbek92)
+
 [This is a link to my latest project](../space-tourism-website/blob/main/README.md)
+
 ![image sample](./space-tourism-website/blob/main/dist/background-crew-desktop.425df4ce.jpg)
