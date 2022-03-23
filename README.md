@@ -11,4 +11,4 @@ git commit
 ```
 [this is a link to my github profile](https://github.com/ruslanbek92)
 [This is a link to my latest project](../space-tourism-website/blob/main/README.md)
-!(https://www.flaticon.com/ru/free-icon/github-logo_25231)
+![git hub logo](https://www.flaticon.com/ru/free-icon/github-logo_25231)
