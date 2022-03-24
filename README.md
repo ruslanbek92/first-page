@@ -11,9 +11,9 @@ git commit
 ```
 [this is a link to my github profile](https://github.com/ruslanbek92)
 
-[This is a link to my latest project](../space-tourism-website/blob/main/README.md)
+[This is a link to my index file](./index.txt)
 
-![image sample](./coffee.jpg)
+![image sample](./coffee.jpg#gh-dark-mode-only)
 
 - George Washington
 - John Adams
