@@ -2,7 +2,7 @@
 
 Junior Front End Developer
 
-![Profile Picture](./avatar.jpg)
+![Profile Picture](./coffee.jpg)
 
 
 ## Contacts:
