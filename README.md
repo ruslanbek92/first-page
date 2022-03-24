@@ -16,6 +16,7 @@ git commit
 ![image sample](./coffee.jpg)
 
 Here is a simple footnote[^1]
+[^1]: My reference 
 
 - George Washington
 - John Adams
