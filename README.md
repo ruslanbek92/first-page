@@ -37,4 +37,5 @@ Here is a simple footnote[^1]
 - [x] do second
 - [ ] do third ☑️
 
+<!-- this hidden comment -->
 
