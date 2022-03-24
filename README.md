@@ -11,7 +11,7 @@ git commit
 ```
 [this is a link to my github profile](https://github.com/ruslanbek92)
 
-[This is a link to my index file](./index.txt)
+[This is a link to my index file](./header.txt)
 
 ![image sample](./coffee.jpg#gh-dark-mode-only)
 
