@@ -32,5 +32,5 @@ git commit
 
 - [ ] do first
 - [x] do second
-- [ ] do third 
+- [ ] do third ☑️
 
