@@ -13,7 +13,7 @@ git commit
 
 [This is a link to my index file](./header.txt)
 
-![image sample](./coffee.jpg#gh-dark-mode-only)
+![image sample](./coffee.jpg)
 
 - George Washington
 - John Adams
