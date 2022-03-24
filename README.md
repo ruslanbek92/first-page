@@ -35,4 +35,4 @@ git commit
 - [x] do second
 - [ ] do third ☑️
 
-Here is a footnote sample [^1]
+Here is a footnote sample [ ^1 ]
