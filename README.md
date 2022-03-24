@@ -15,6 +15,7 @@ git commit
 
 ![image sample](./coffee.jpg)
 
+
 - George Washington
 - John Adams
 - Thomas Jefferson
@@ -33,3 +34,5 @@ git commit
 - [ ] do first
 - [x] do second
 - [ ] do third ☑️
+
+Here is a footnote sample[^1]
