@@ -1,41 +1,60 @@
-# first-page
-## Beginning
+# Ruslanbek Normurodov
 
-Lorem ipsum **dolor** sit amet, **consectetur adipiscing elit**, sed do *eiusmod tempor* incididunt ut labore ~~et dolore magna aliqua. Ut enim ad minim veniam,~~ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute **irure dolor in *reprehenderit* in voluptate** velit esse ***cillum dolore eu fugiat nulla pariatur.*** Excepteur sint >occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-use `git add` command to add modofied files into staging area. 
-There are several git command examples:
+Junior Front End Developer
+
+![Profile Picture](./avatar.jpg)
+
+
+## Contacts:
+
+☎️ +998 99 457 08 92
+
+📧 aksirus89@gmail.com
+
+:octocat:  @ruslanbek92
+
+🏠 Tashkent, Uzbekistan
+
+
+## Quick info about myself
+
+ Honest and hardworking Front End developer with the aim to become a great web developer.
+
+## Skills
+
+- HTML, CSS, Javascript
+- Boostrap, React
+- Git and GitHub
+-  gulp, parcel.
+
+## Code example
+
 ```
-git add
-git status
-git commit
+function multiply(a, b){
+  return a * b
+}
 ```
-[this is a link to my github profile](https://github.com/ruslanbek92)
 
-[This is a link to my index file](./header.txt)
 
-![image sample](./coffee.jpg)
+## Experience
 
-Here is a simple footnote[^1]
-[^1]: My reference 
+- Have done internship at Eurosoft IT Company for two month.
+- Have been teaching kids Front End at Teaching Center for 3 months.
+- Independently have finished challenge from Front End Mentor: [Space Tourism Website] (https://musing-archimedes-0fbb66.netlify.app/)
 
-- George Washington
-- John Adams
-- Thomas Jefferson
 
-1. USA
-2. Russia
-3. China
 
-- first list item
-  - second nested list item
-  - third nested list item
-    1. item#1
-    2. item#2      
-- second list item
+## Education
 
-- [ ] do first
-- [x] do second
-- [ ] do third ☑️
+- Diploma on Software Engineering, NIIT New Delhi India
+- Front End Course from Mozilla Developer Network
+- FreeCodeCamp Front End Course
 
-<!-- this hidden comment -->
+
+
+## English
+
+B2
+
+I have worked as an english-uzbek interpreter for medical tourists in India.
 
